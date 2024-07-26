@@ -1,5 +1,5 @@
 # My-first-git
-Author-Gaurav Kumar
+Author-Gaurav K
 <br>
 This is the basic HTML test
 <br>
